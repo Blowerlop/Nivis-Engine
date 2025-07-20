@@ -1,3 +1,4 @@
+# --- C++ ---
 # Prerequisites
 *.d
 
@@ -39,3 +40,11 @@
 
 # debug information files
 *.dwo
+
+# --- Xmake ---
+# Cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
