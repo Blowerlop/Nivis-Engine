@@ -51,3 +51,6 @@ build/
 
 # --- Files ---
 CMakeLists.txt
+
+# --- Riders ---
+**/.idea/
